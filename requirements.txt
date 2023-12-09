@@ -4,7 +4,7 @@ numpy==1.24.3
 pandas==2.1.0
 matplotlib==3.7.3
 seaborn==0.12.2
-sklearn==1.2.2
+scikit-learn==1.2.2
 shap==0.43.0
 imblearn==0.11.0
 eli5==0.13.0
