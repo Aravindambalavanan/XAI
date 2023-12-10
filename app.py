@@ -12,7 +12,7 @@ def streamlit_menu():
             selected = option_menu(
                 menu_title="Main Menu",  
                 options=["Home", "Prediction", "SHAP","LIME and ELI5"],  
-                icons=["house","activity", "stripe","x-square-fill"],  
+                icons=["house","activity", "x-square-fill","x-square-fill"],  
                 menu_icon="cast", 
                 default_index=0,  
             )
