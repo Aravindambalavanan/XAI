@@ -9,4 +9,7 @@ shap==0.43.0
 imbalanced-learn==0.11.0
 eli5==0.13.0
 lime== 0.2.0.1
+<<<<<<< HEAD
 streamlit_option_menu==0.3.2
+=======
+>>>>>>> cf0df1e4b2af98ac47e8dd090f74eb92762f71ef
